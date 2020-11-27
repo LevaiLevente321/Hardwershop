@@ -1,0 +1,25 @@
+.kam {
+    height: 100px;
+    width: 100px;
+}
+
+header {
+    color: rgb(0, 0, 0);
+    text-shadow: 2px 2px 5px rgb(139, 63, 19);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 100px;
+    padding: 0%;
+    text-align: center;
+}
+
+body {
+    background-color: rgb(99, 99, 99);
+    text-align: center;
+    background-size: auto;
+    width: auto;
+    height: auto;
+    background-image: url("kepek/hatter.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
